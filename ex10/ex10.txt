@@ -1,0 +1,39 @@
+====================================================
+       AI BASED STUDENT PERFORMANCE PREDICTION
+====================================================
+Enter Student Name: kavi
+Enter Roll Number: 1234
+Enter Department: AIDS
+
+Enter Student Academic Details
+--------------------------------------------
+Enter Attendance Percentage: 100
+Enter Study Hours Per Day: 2
+Enter Previous Exam Marks: 56
+Enter Assignment Score: 89
+Enter Internal Assessment Marks: 34
+
+====================================================
+                PREDICTION RESULT
+====================================================
+Student Name          : kavi
+Roll Number           : 1234
+Department            : AIDS
+Attendance            : 100.0 %
+Study Hours Per Day   : 2.0
+Previous Exam Marks   : 56.0
+Assignment Score      : 89.0
+Internal Marks        : 34.0
+----------------------------------------------------
+Attendance Score      : 20
+Study Score           : 10
+Previous Mark Score   : 10
+Assignment Score      : 15
+Internal Score        : 5
+----------------------------------------------------
+Total Performance Score : 60 / 100
+Predicted Performance   : AVERAGE
+Suggestion              : Improve study time and academic performance.
+====================================================
+       PREDICTION COMPLETED SUCCESSFULLY
+====================================================
